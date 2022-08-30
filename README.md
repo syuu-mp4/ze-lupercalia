@@ -1,2 +1,2 @@
-# ze-lupercalia
-Beppu's Config for Lupercalia server (JP)
+# Beppu's Zombie Escape configs collection.
+If I need, it will be upgraded
